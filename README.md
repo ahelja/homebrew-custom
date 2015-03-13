@@ -1,4 +1,4 @@
 To tap run: 
-  brew tap casidiablo/custom
+  brew tap arnelh/homebrew-custom
 
 Then install as normal
