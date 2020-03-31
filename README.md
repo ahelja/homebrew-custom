@@ -1,4 +1,4 @@
 To tap run: 
-  brew tap arnelh/homebrew-custom
+  brew tap ahelja/homebrew-custom
 
 Then install as normal
