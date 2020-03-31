@@ -1,6 +1,6 @@
 require 'formula'
 
-class Pharod < Formula
+class dl < Formula
   homepage 'http://example.com'
   version '1010'
   sha256 'ada615b90627b99353627ae2997d670f83cdfe5feb07faa542f34da2c7266c21'
