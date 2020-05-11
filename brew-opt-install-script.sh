@@ -51,3 +51,4 @@ brew cask install paintcode
 brew cask install amadine
 brew cask install shapes
 brew cask install vectorize
+brew cask install ocenaudio
