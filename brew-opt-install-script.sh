@@ -52,3 +52,4 @@ brew cask install amadine
 brew cask install shapes
 brew cask install vectorize
 brew cask install ocenaudio
+brew cask install skype-for-business
