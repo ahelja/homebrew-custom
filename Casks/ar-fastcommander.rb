@@ -1,4 +1,4 @@
-cask 'ar-netnewswire' do
+cask 'ar-fastcommander' do
   version '40bf43e877c03ae32af740b0aba8e7e0'
   sha256 'f4bb9256d73c7fb30bdef7ccaf464a5ac7adbe83134be9465dff1d7494b37081'
 
