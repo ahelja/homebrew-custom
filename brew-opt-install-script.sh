@@ -6,6 +6,9 @@
 # echo "Installing brew..."
 # /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+brew tap homebrew/cask-fonts
+brew cask install font-roboto
+
 brew cask install ar-candelabrum
 brew cask install ar-pine
 brew cask install dd-utility
