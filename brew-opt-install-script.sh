@@ -57,3 +57,4 @@ brew cask install vectorize
 brew cask install ocenaudio
 brew cask install skype-for-business
 brew cask install mailsmith
+brew cask install unison
