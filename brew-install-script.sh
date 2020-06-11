@@ -16,9 +16,8 @@ brew install node
 # Dev Tools
 brew install git
 brew cask install sublime-text
-brew cask install github-desktop
+brew cask install github #-desktop
 brew cask install ar-imageoptim
-brew cask install ar-pixelmator
 brew cask install ar-fastcommander
 
 # Communication Apps
@@ -38,4 +37,10 @@ brew cask install ar-netnewswire
 brew cask install keepingyouawake
 brew cask install ar-appcleaner
 brew cask install cyberduck
-brew cask install sketch
+
+# TODO
+# brew cask install ar-pixelmator
+# curl -O https://pixelmator-download.s3.amazonaws.com/trial/Pixelmator-Pro.zip
+
+# brew cask install ar-sketch
+# curl -O https://download.sketchapp.com/sketch-54.1-76490.zip
