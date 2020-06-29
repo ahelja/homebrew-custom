@@ -15,6 +15,7 @@ brew install node
 
 # Dev Tools
 brew install git
+brew install fswatch
 brew cask install sublime-text
 brew cask install github #-desktop
 brew cask install ar-imageoptim
